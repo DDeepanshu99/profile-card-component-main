@@ -24,8 +24,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshots
-
+### Desktop View
 ![Desktop view](Desktop-view.jpeg)
+### Mobile View
 ![Mobile view](Mobile-view.jpeg)
 
 
@@ -50,7 +51,7 @@ I learned about CSS background properties as I had to implement them in this pro
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - This is a really good resource for learning web dev stuff.
+- [MDN web docs](https://developer.mozilla.org/en-US/) - This is a really good resource for learning web dev stuff.
 
 ## Author
 
